@@ -4,6 +4,11 @@ body {
   margin: 0px;
 }
 
+.activeTab {
+  color: #16C0B0;
+  text-decoration: underline;
+}
+
 .flex-container {
   display: flex;
   justify-content: center;
